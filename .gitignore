@@ -1,0 +1,7 @@
+debug
+.venv
+collinsdic_annotated
+collinsdic_images
+collinsdic.pdf
+output.csv
+**/__pycache__
