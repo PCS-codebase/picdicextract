@@ -1,0 +1,38 @@
+{
+    "version": "0.2",
+    "dictionaries": [
+      "jargon",
+      "peoples-names",
+      "programming-terms",
+      "project-coined-terms",
+      "proper-nouns"
+    ],
+    "dictionaryDefinitions": [
+      {
+        "name": "jargon",
+        "path": "./.vscode/dictionaries/jargon.txt",
+        "addWords": true
+      },
+      {
+        "name": "peoples-names",
+        "path": "./.vscode/dictionaries/peoples-names.txt",
+        "addWords": true
+      },
+      {
+        "name": "programming-terms",
+        "path": "./.vscode/dictionaries/programming-terms.txt",
+        "addWords": true
+      },
+      {
+        "name": "project-coined-terms",
+        "path": "./.vscode/dictionaries/project-coined-terms.txt",
+        "addWords": true
+      },
+      {
+        "name": "proper-nouns",
+        "path": "./.vscode/dictionaries/proper-nouns.txt",
+        "addWords": true
+      }
+    ]
+  }
+  

@@ -1,0 +1,5 @@
+collinsdic
+roifile
+rois
+roiset
+roitype

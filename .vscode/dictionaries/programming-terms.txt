@@ -1,0 +1,5 @@
+csvfile
+fromarray
+Tesseract
+thresholding
+tmpdirname
